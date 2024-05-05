@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+public/uploads/
+temp/
+uploads/
+
+# Build artifacts
+dist/
+*.js
+*.css
+*.map
+
+# Environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Others
+coverage/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.md5
+*.d.ts
+*.pid.lock
